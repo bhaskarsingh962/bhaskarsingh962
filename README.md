@@ -37,7 +37,7 @@ A modern full-stack healthcare platform enabling real-time appointment booking b
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bhaskar-singh96)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhaskar-singh96)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bhaskarsingh91642@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/bhaskarsingh962)
 
