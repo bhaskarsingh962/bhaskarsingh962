@@ -1,5 +1,5 @@
 # Hi there, I'm Bhaskar Singh 👋  
-### A Full-Stack Developer | MCA Student at NIT Jamshedpur  
+### A Full-Stack Developer | Final Year MCA Student at NIT Jamshedpur  
 
 🚀 Passionate about building scalable and user-friendly **MERN stack** web applications.  
 I enjoy developing projects that combine clean backend logic, efficient database design, and responsive frontend interfaces.  
@@ -40,6 +40,20 @@ A modern full-stack healthcare platform enabling real-time appointment booking b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhaskar-singh96)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:bhaskarsingh91642@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/bhaskarsingh962)
+
+---
+
+## 🔥 My GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhaskarsingh962&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117" alt="Bhaskar's GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarsingh962&theme=tokyonight&hide_border=false&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarsingh962&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=bhaskarsingh962&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
